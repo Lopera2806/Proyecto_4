@@ -1,0 +1,7 @@
+organization=lopera2806
+projectKey=Lopera2806_Proyecto_4
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.88170
+dashboardUrl=https://sonarcloud.io/dashboard?id=Lopera2806_Proyecto_4
+ceTaskId=AZ5cyY8spMl8fKJ-74iZ
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZ5cyY8spMl8fKJ-74iZ
